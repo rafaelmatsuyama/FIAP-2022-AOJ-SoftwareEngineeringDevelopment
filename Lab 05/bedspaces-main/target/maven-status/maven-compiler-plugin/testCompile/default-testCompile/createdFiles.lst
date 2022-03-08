@@ -1,0 +1,7 @@
+doing_more_with_mockito\StudentRepo.class
+services\StudentServiceImpl_VerifyTests.class
+services\StudentServiceImpl_PartialMockingTests.class
+services\StudentServiceImpl_StubbingTests.class
+data\repositories\HostelRepositoryTest.class
+data\repositories\StudentRepositoryImplTest.class
+doing_more_with_mockito\StudentRepoTest.class
